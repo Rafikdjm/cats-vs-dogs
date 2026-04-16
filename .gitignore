@@ -1,0 +1,18 @@
+# Dataset (trop lourd pour GitHub)
+data/
+train/
+validation/
+*.jpg
+*.jpeg
+*.png
+
+# Modèle sauvegardé
+*.h5
+*.keras
+*.pkl
+
+# Python
+__pycache__/
+*.pyc
+.env
+.ipynb_checkpoints/
