@@ -1,4 +1,4 @@
-# Cats vs Dogs — CNN Classifier 🐱🐶
+# Cats vs Dogs — CNN Classifier 
 
 Binary image classification using a custom CNN built with TensorFlow/Keras,  
 trained on the Kaggle Dogs vs. Cats dataset (~25 000 images).
